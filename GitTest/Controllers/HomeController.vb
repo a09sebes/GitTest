@@ -14,7 +14,7 @@
     End Function
 
     Function Contact() As ActionResult
-        ViewData("Message") = "Your contact pagesdfsdfsdsdff."
+        ViewData("Message") = "Your contact pagesdfsdfsdsdffsdfsdfsdfsdfsfd."
 
         Return View()
     End Function
